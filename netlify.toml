@@ -1,5 +1,5 @@
 [build]
-  command = "npx clear-npm-cache && npm install -g npm@7 && npm install --force --legacy-peer-deps && npm run build"
+  command = "npm cache clean -f && npm install -g npm@7 && npm install --force --legacy-peer-deps && npm run build"
   publish = "build-directory"  # Replace with the actual build output directory
 
 [context.production.environment]
