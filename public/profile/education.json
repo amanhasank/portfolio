@@ -1,0 +1,16 @@
+{
+    "education":[
+        {
+            "title": "Jun 2018 - Jun 2022",
+            "cardTitle": "B.Tech, Computer Science Engineering",
+            "cardSubtitle":"Chandigarh Group of Colleges, Mohali",
+            "cardDetailedText": "CGPA - 8.4"
+        },
+        {
+            "title": "Apr 2018",
+            "cardTitle": "High School",
+            "cardSubtitle":"SRS Sr Sec School, Rohtak",
+            "cardDetailedText": "Marks - 85%"
+        }
+    ]
+}

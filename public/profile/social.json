@@ -1,0 +1,16 @@
+{
+    "social": [
+        {
+            "network" : "linkedin",
+            "href": "https://www.linkedin.com/in/aman-hasan-23415018a/"
+        },
+        {
+            "network" : "github",
+            "href": "https://github.com/amanhasank"
+        },
+        {
+            "network" : "email",
+            "href": "aman08081@gmail.com"
+        }
+    ]
+}

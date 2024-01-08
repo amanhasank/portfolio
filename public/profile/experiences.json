@@ -1,0 +1,27 @@
+{
+    "experiences": [
+        {
+            "title": "Cloud/DevOps Engineer",
+            "subtitle": "Nokia Solutions and Networks",
+            "workType": "Full-time",
+            "workDescription": [
+                "Integrated Timezone feature to all Pods and containers, ensuring accurate time synchronization across the application infrastructure, reducing timestamp-related issues by 90%.",
+                "Implemented Micro testing Framework, increasing code coverage to 85% and minimizing defects by 40%.",
+                "Developed and managed services like Certificate Authority and Vault, enhancing security by 70%.",
+                "Conducted comprehensive Deployment Tests, including Sanity, resulting in a significant 40% reduction in critical issues discovered during production deployments"
+            ],
+            "dateText": "06/2021 – Present"
+        },
+        {
+            "title": "Android Developer Intern",
+            "subtitle": "Spade Event Management",
+            "workType": "Intern",
+            "workDescription": [
+                "Collaborated to identify and fix bugs, ensuring app stability.",
+                "Enhanced the user interface of Android applications, resulting in a 20% increase in user engagement.",
+                "Identified issues, analyzed information and provided solutions to problems"
+            ],
+            "dateText": "03/2021 – 06/2021"
+        }
+    ]
+}
