@@ -1,6 +1,7 @@
 [build]
-  command = "npm cache clean -f && npm install -g npm@7 && npm install --force --legacy-peer-deps && npm run build"
-  publish = "build-directory"  # Replace with the actual build output directory
+command = "npm cache clean -f && npm install -g npm@7 && npm install --force --legacy-peer-deps && npm run build"
+publish = "/build-directory"
+environment = { NODE_VERSION = "14" } # Use the Node version supported by Netlify
 
 [context.production.environment]
   NODE_VERSION = "14"  # Replace with the desired Node.js version
