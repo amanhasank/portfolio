@@ -1,0 +1,71 @@
+{
+    "projects" : [
+        {
+            "image" : "images/projects/connectme.png",
+            "title": "ConnectMe - Chatting Application",
+            "bodyText": "- An Android App that allows users to send texts, images and emojies in real time.\n - End to End encryption using **AES** Algorithm.\n - Uses **Firebase** database to store texts.\n - Automated APK generation process using Jenkins and AWS EC2 Server",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/amanhasank/ConnectME"
+                },
+                {
+                    "text": "Live",
+                    "href": "https://drive.google.com/drive/folders/1B9PLgOYMSn4L82oqYMFgokxS4ujYrUVS?usp=sharing"
+                }
+            ],
+            "tags" : [
+                "Java",
+                "Android",
+                "Firebase",
+                "Jenkins",
+                "AWS"
+            ]
+        },
+        {
+            "image" : "images/projects/instabot.png",
+            "title": "Instagram Bot",
+            "bodyText": "- Built Python BOT for fast downloads, efficient editing, automated login/uploads, and multitasking with multiple reels\n -  Utilized moviepy to enhance downloaded reels, Slashing editing time by 40%..\n - Employed Selenium to automate login and reel uploads with a 95% success rate",
+            "links": [
+                {
+                    "text": "GitHub",
+                    "href": "https://github.com/amanhasank/Instagram-bot"
+                }
+            ],
+            "tags" : [
+                "Python",
+                "Selenium",
+                "Automation"
+            ]
+        },
+        {
+            "image" : "images/projects/testing.png",
+            "title": "Automated Testing Framework",
+            "bodyText": "- Created Automated Testing Framework with Shell Script, Docker, Robot Framework, Jenkins for reliable local testing.\n - Developed and executed test cases in Robot Framework.\n - Integrated the testing framework into Jenkins.\n - Demonstrated expertise in scripting, automation, and CI/CD pipeline integration",
+            
+            "tags" : [
+                "Docker",
+                "Bash",
+                "Docker-compose",
+                "Jenkins",
+                "GoLang",
+                "Robot",
+                "SonarQube"
+            ]
+        },
+        {
+            "image" : "images/projects/webapp.png",
+            "title": "Multi-tier Web Application",
+            "bodyText": "- Orchestrated multiple services (Fluentd, Nginx, Flask App, Elasticsearch, Kibana) using Docker Compose for seamless integration.\n - Implemented centralized logging using Fluentd, with service-specific logging drivers for Nginx and Flask App.\n - Deployed Elasticsearch and Kibana, ensuring reliability with health checks and secure communication via Docker Compose networks.",
+
+            "tags" : [
+                "Docker",
+                "Container Orchestration",
+                "ELK Stack",
+                "DevOps",
+                "Centralized Logging"
+            ]
+        }
+        
+   ]
+}
